@@ -7,7 +7,7 @@ function App  ()  {
   const [student ,setStudent] = useState({name:'John', age:25})
 
   const incrementCount =() =>{
-    setCount(count +1);
+    setCount(count +      1);
   }
 
   const updateStudent =() =>{
